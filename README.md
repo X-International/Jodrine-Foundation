@@ -12,7 +12,7 @@ Jodrine Foundation is a non-profit organization dedicated to transforming lives 
 - **Community Development:** We're committed to fostering economic empowerment and sustainable development in Mukusu Gomba.
 
 ## HOW TO GET INVOLVED
-1. **Donate:** Your financial support helps us fund our projects and make a lasting impact on the lives of those in need. Visit our [Website](https://www.jodrinefoundation.org) to contribute.
+1. **Donate:** Your financial support helps us fund our projects and make a lasting impact on the lives of those in need. Visit our website [jodrinefoundation.org](https://www.jodrinefoundation.org) to contribute.
 2. **Volunteer:** Join us as a volunteer and get involved in our programs. Contact us at [jodrinefoundation@gmail.com](mailto:jodrinefoundation@gmail.com) to learn more.
 3. **Spread the Word:** Follow us on social media and share our mission with your friends and family to help raise awareness.
 
