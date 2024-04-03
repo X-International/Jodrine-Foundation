@@ -16,9 +16,14 @@ Jodrine Foundation is a non-profit organization dedicated to transforming lives 
 2. **Volunteer:** Join us as a volunteer and get involved in our programs. Contact us at [jodrinefoundation@gmail.com](mailto:jodrinefoundation@gmail.com) to learn more.
 3. **Spread the Word:** Follow us on social media and share our mission with your friends and family to help raise awareness.
 
+## HOW TO CONTRIBUTE AS A DEVELOPER
+1. **Fork the Repository:** Start by forking our repository to your GitHub account.
+2. **Clone the Repository:** Clone the forked repository to your local machine.
+3. **Make Changes:** Make your desired changes or improvements to the codebase.
+4. **Submit a Pull Request:** Once your changes are ready, submit a pull request to the main repository for review.
+
 ## LET'S TALK
 - **Email:** jodrinefoundation@gmail.com
 - **Address:** Mukusu Gomba, UGANDA
 
 Thank you for your support in making a difference with Jodrine Foundation!
-
