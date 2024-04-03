@@ -1,6 +1,8 @@
 ![Jodrine Foundation](assets/img/logo/jodrine-foundation-readme.png "Jodrine Foundation Logo")
 
-## ABOUT US
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4018d8e4-d8b8-47e1-bc5d-d31655c8f74b/deploy-status)](https://app.netlify.com/sites/jodrine-foundation/deploys)
+
+## ABOUT US 
 Jodrine Foundation is a non-profit organization dedicated to transforming lives through education and healthcare initiatives in Mukusu Gomba Village, Uganda. Our mission is to empower the community and create sustainable solutions for long-term development.
 
 ## KEY INITIATIVES
