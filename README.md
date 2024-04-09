@@ -13,10 +13,10 @@ Jodrine Foundation is a non-profit organization dedicated to transforming lives 
 - **Clean Water Projects:** We're working to provide clean and accessible water sources to reduce waterborne diseases and improve sanitation.
 - **Community Development:** We're committed to fostering economic empowerment and sustainable development in Mukusu Gomba.
 
-## HOW TO GET INVOLVED
+## HOW TO Take Action
 
 1. **Donate Now:** Your financial support helps us fund our projects and make a lasting impact on the lives of those in need. Visit our website [jodrinefoundation.org](https://www.jodrinefoundation.org) to contribute.
-2. **Volunteer:** Join us as a volunteer and get involved in our programs. Contact us at [jodrinefoundation@gmail.com](mailto:jodrinefoundation@gmail.com) to learn more.
+2. **Volunteer:** Join us as a volunteer and Take Action in our programs. Contact us at [jodrinefoundation@gmail.com](mailto:jodrinefoundation@gmail.com) to learn more.
 3. **Spread the Word:** Follow us on social media and share our mission with your friends and family to help raise awareness.
 
 ## HOW TO CONTRIBUTE AS A DEVELOPER
