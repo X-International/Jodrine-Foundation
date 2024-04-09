@@ -16,7 +16,7 @@ Jodrine Foundation is a non-profit organization dedicated to transforming lives 
 ## HOW TO Take Action
 
 1. **Donate Now:** Your financial support helps us fund our projects and make a lasting impact on the lives of those in need. Visit our website [jodrinefoundation.org](https://www.jodrinefoundation.org) to contribute.
-2. ** Volunteer With Us:** Join us as a  Volunteer With Us and Take Action in our programs. Contact us at [jodrinefoundation@gmail.com](mailto:jodrinefoundation@gmail.com) to learn more.
+2. ** Volunteer:** Join us as a  Volunteer and Take Action in our programs. Contact us at [jodrinefoundation@gmail.com](mailto:jodrinefoundation@gmail.com) to learn more.
 3. **Spread the Word:** Follow us on social media and share our mission with your friends and family to help raise awareness.
 
 ## HOW TO CONTRIBUTE AS A DEVELOPER
