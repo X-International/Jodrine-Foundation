@@ -5046,6 +5046,10 @@ input[type=text], input[type=email], input[type=tel], input[type=number], input[
     display: none;
   }
 }
+.values {
+  color: var(--tp-theme-1);
+  font-family: var(--tp-ff-heading);
+}
 .tp-about__list-icon i {
   color: #f05228;
   font-size: 20px;
@@ -6103,8 +6107,8 @@ input[type=text], input[type=email], input[type=tel], input[type=number], input[
 }
 .tp-about-4__list-icon i {
   color: var(--tp-common-orange);
-  font-size: 38px;
-  padding-right: 25px;
+  font-size: 20px;
+  padding-right: 20px;
   display: inline-block;
   transform: translateY(3px);
 }
