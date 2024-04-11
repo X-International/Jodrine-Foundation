@@ -4733,12 +4733,13 @@ input[type=text], input[type=email], input[type=tel], input[type=number], input[
 /*  12. feature css start
 /*----------------------------------------*/
 .tp-feature__space {
-  padding-top: 130px;
+  padding-top: 50px;
   padding-bottom: 90px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
+
 .tp-feature__wraper {
   padding: 30px 30px 40px 50px;
   background-color: var(--tp-common-white);
