@@ -426,7 +426,7 @@ input[type=color] {
   --bs-gutter-x: 25px;
 }
 
-input[type=text], input[type=email], input[type=tel], input[type=number], input[type=password], input[type=url] {
+input[type=text], input[type=email], input[type=tel], input[type=number], input[type=password], input[type=url], input[type=date] {
   outline: none;
   background-color: #fff;
   height: 60px;
